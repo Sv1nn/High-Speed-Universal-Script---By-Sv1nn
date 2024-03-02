@@ -1,4 +1,3 @@
-        Callback = function()
            --Sv1nn--
 local main = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
@@ -324,3 +323,5 @@ mine.MouseButton1Down:connect(function()
 		end
 		end
 end)
+
+    end    
